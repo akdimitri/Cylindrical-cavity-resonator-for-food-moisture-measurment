@@ -22,4 +22,4 @@ The experiment procedure is the following:
 
 *The dryer the peanut, the higher the resonance frequency*
 
-[Data: Samples Frequency vs Time in Oven] (https://github.com/akdimitri/Cylindrical-cavity-resonator-for-food-moisture-measurment/blob/master/data.png)
+![Data: Samples Frequency vs Time in Oven](https://github.com/akdimitri/Cylindrical-cavity-resonator-for-food-moisture-measurment/blob/master/data.png)
