@@ -25,3 +25,5 @@ The experiment procedure is the following:
 ![Data: Samples Frequency vs Time in Oven](https://github.com/akdimitri/Cylindrical-cavity-resonator-for-food-moisture-measurment/blob/master/data.png)
 
 ![Polynomial Fit on average values per sample group](https://github.com/akdimitri/Cylindrical-cavity-resonator-for-food-moisture-measurment/blob/master/poly_fit.png)
+
+![Polynomial Fit Humidity vs Frequency](https://github.com/akdimitri/Cylindrical-cavity-resonator-for-food-moisture-measurment/blob/master/humidity.png)
