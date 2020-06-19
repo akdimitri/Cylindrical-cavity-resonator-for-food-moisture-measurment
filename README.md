@@ -1,4 +1,6 @@
 # Cylindrical-cavity-resonator-for-food-moisture-measurment
+Aristotle University of Thessaloniki
+Electrical and Computer Engineering
 
 # Description
 This repository includes the data measured using a cylindrical cavity resonator in order to calculate moisture content of raw peanuts. The project took place in the context of "Non Destructive Evaluation Techniques" Subject.
