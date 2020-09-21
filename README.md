@@ -8,7 +8,7 @@ This repository includes the data measured using a cylindrical cavity resonator 
 # Authors
 * Dimitrios Antoniadis
 * Kalitsios Georgios
-* Katasras Georgios
+* Katsaras Georgios
 
 # Experiment Procedure
 
